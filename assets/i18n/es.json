@@ -76,5 +76,9 @@
   },
   "appInfo": {
     "content": ""
+  },
+  "textboxbuttons": {
+    "Entries": "Entradas",
+    "Add": "Añadir"
   }
 }
