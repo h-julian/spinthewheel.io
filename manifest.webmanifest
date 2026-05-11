@@ -11,13 +11,13 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "assets/icons/ms-icon-144x144.png",
+      "src": "spinthewheel.io/assets/icons/ms-icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "assets/icons/ms-icon-144x144.png",
+      "src": "spinthewheel.io/assets/icons/ms-icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
