@@ -70,5 +70,11 @@
   },
   "config": {
     "language": "es"
+  },
+  "text": {
+    "spin": "Girar"
+  },
+  "appInfo": {
+    "content": ""
   }
 }
