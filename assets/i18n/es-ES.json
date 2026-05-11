@@ -1,0 +1,74 @@
+{
+  "common": {
+    "Account deleted": "Cuenta eliminada",
+    "Add entry": "Añadir opción",
+    "Apply": "Aplicar",
+    "Are you sure": "¿Seguro?",
+    "Cancel": "Cancelar",
+    "Category": "Categoría",
+    "Close": "Cerrar",
+    "Confirm": "Confirmar",
+    "Description must be at least 10 characters": "La descripción debe tener al menos 10 caracteres",
+    "Design": "Diseño",
+    "Just now": "Ahora mismo",
+    "Library": "Biblioteca",
+    "New": "Nuevo",
+    "OK": "OK",
+    "Remove": "Eliminar",
+    "Remove all instances": "Eliminar todas las apariciones",
+    "Report the wheel": "Reportar la ruleta",
+    "Report this": "Reportar esto",
+    "Save": "Guardar",
+    "Search image": "Buscar imagen",
+    "Send": "Enviar",
+    "Share your wheel": "Compartir ruleta",
+    "Sign in again to confirm deletion of your account": "Inicia sesión otra vez para confirmar la eliminación de tu cuenta",
+    "Sign in to see your wheels": "Inicia sesión para ver tus ruletas",
+    "Sign in with Apple": "Iniciar sesión con Apple",
+    "Sign in with Google": "Iniciar sesión con Google",
+    "Themes": "Temas",
+    "Upload image": "Subir imagen"
+  },
+  "toolbar": {
+    "Admin panel": "Panel admin",
+    "Exit fullscreen": "Salir de pantalla completa",
+    "Fullscreen": "Pantalla completa",
+    "Log out": "Cerrar sesión",
+    "My wheels": "Mis ruletas",
+    "Share": "Compartir"
+  },
+  "optionsdialog": {
+    "Animate selected item": "Animar elemento seleccionado",
+    "Design": "Diseño",
+    "Display results horizontally": "Mostrar resultados horizontalmente",
+    "Post-spin sound": "Sonido después de girar",
+    "Remove": "Eliminar",
+    "Remove selected item after 2 seconds": "Eliminar elemento seleccionado después de 2 segundos",
+    "Select effect": "Seleccionar efecto",
+    "Select sound": "Seleccionar sonido",
+    "Show option to ": "Mostrar opción para ",
+    "Wheel palette": "Paleta de la ruleta",
+    "Winner effects": "Efectos de ganador",
+    "selected item": "elemento seleccionado"
+  },
+  "dialogs": {
+    "Confirm_New_Wheel": "Crear una ruleta nueva",
+    "wheel_reset": "Se reiniciará la ruleta actual."
+  },
+  "confirmsavedialog": {
+    "save_successful": "Guardado correctamente",
+    "your_changes_have_been_saved": "Tus cambios se han guardado"
+  },
+  "ablock": {
+    "header": "Bloqueador detectado",
+    "ok": "OK",
+    "subtitle": "",
+    "title": ""
+  },
+  "app": {
+    "save_wheel_enable_sharing": "Guarda la ruleta para activar compartir"
+  },
+  "config": {
+    "language": "es"
+  }
+}
